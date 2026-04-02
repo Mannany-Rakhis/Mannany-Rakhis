@@ -14,7 +14,9 @@ Je m'intéresse particulièrement à :
 - les réseaux
 - la cybersécurité
 
-J'ai également réalisé des manipulations sur **Linux** et travaillé sur **Windows Server dans un environnement virtualisé (VMware)** dans le cadre de ma formation.
+J'ai également travaillé sur :
+- Linux
+- Windows Server dans un environnement virtualisé (VMware)
 
 Objectif : trouver une alternance pour continuer à progresser et acquérir de l'expérience professionnelle.
 
@@ -28,7 +30,7 @@ Objectif : trouver une alternance pour continuer à progresser et acquérir de l
 
 ---
 
-### Outils
+### Outils & systèmes
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)](https://skillicons.dev)
 
@@ -63,7 +65,7 @@ Fonctionnalités :
 - recherche dynamique
 - filtres
 - pagination
-- base de données MySQL
+- base MySQL
 
 Stack :
 
@@ -86,15 +88,9 @@ Stack :
 
 ---
 
-## GitHub Stats
+## Activité GitHub
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=github_dark">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact&theme=github_dark">
-
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mannany-Rakhis&theme=github-dark)
 
 ---
 
@@ -109,11 +105,18 @@ Stack :
 
 ## Contact
 
-GitHub :
-https://github.com/Mannany-Rakhis
+<p align="center">
 
-LinkedIn :
-https://www.linkedin.com/in/mannany-rakhis-274a35327
+<a href="https://github.com/Mannany-Rakhis">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-Email :
-rakhisahmat3600@gmail.com
+<a href="https://www.linkedin.com/in/mannany-rakhis-274a35327">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:rakhisahmat3600@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
