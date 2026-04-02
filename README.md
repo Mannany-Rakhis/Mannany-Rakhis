@@ -41,12 +41,35 @@ VMware (virtualisation)
 
 ## IA utilisées
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-6B4EFF?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=github)
-![Bolt](https://img.shields.io/badge/Bolt-black?style=for-the-badge)
+<p>
 
+<a href="https://chat.openai.com">
+<img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white">
+</a>
+
+<a href="https://claude.ai">
+<img src="https://img.shields.io/badge/Claude-6B4EFF?style=for-the-badge">
+</a>
+
+<a href="https://gemini.google.com">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+</a>
+
+<a href="https://github.com/features/copilot">
+<img src="https://img.shields.io/badge/GitHub_Copilot-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://bolt.new">
+<img src="https://img.shields.io/badge/Bolt-000000?style=for-the-badge">
+</a>
+
+</p>
+
+Utilisation :
+- aide au développement
+- debug
+- apprentissage technique
+- optimisation du travail
 Utilisation :
 - aide au développement
 - debug
