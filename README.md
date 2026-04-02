@@ -1,76 +1,48 @@
 # Mannany Rakhis
 
-<p align="center">
-Étudiant en informatique à École-IT<br>
-Intéressé par l'infrastructure systèmes, réseaux et cybersécurité
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=700&lines=Etudiant+en+informatique;Infrastructure+et+Cybersecurite;Developpement+Web;Recherche+alternance)
 
 ---
 
 ## Profil
 
-Étudiant passionné par l’informatique avec un intérêt particulier pour :
-- l'administration systèmes
-- les réseaux
-- la cybersécurité
-- le développement backend
+Étudiant à **École-IT**, passionné par l'informatique et particulièrement intéressé par :
 
-Objectif : trouver une alternance pour continuer à progresser techniquement et travailler sur des projets concrets.
+- Infrastructure systèmes
+- Réseaux
+- Cybersécurité
+- Backend
+
+Je développe des projets pour renforcer mes compétences techniques et préparer mon entrée dans le monde professionnel.
 
 ---
 
 ## Stack technique
 
-### Langages
+### Languages
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,c,mysql)](https://skillicons.dev)
 
 ---
 
-## Base de données
+### Tools
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 ---
 
-## Outils
+### AI Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/WAMP-2C2C2C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
----
-
-## IA utilisées
-
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-6B4EFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/Bolt-000000?style=for-the-badge">
-</p>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-6B4EFF?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=github)
 
 Utilisation :
-- aide au développement
-- debug
-- apprentissage
-- optimisation
+- Debug
+- Apprentissage technique
+- Optimisation code
+- Productivité
 
 ---
 
@@ -81,37 +53,39 @@ Utilisation :
 Projet full stack :
 
 Fonctionnalités :
-- recherche dynamique
-- filtres
-- pagination
-- base de données
+- Recherche dynamique
+- Filtres
+- Pagination
+- Base MySQL
 
 Stack :
-HTML / CSS / JS / PHP / MySQL
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
 
 ---
 
 ### Clicker Game
 
-Projet JavaScript interactif :
+Projet JavaScript :
 
 Fonctionnalités :
-- système d'améliorations
-- achievements
-- animations
+- Upgrade system
+- Achievements
+- Animations
 
 Stack :
-HTML / CSS / JavaScript
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ---
 
-## Statistiques GitHub
+## GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=dark">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=github_dark">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact&theme=dark">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact&theme=github_dark">
 
 </p>
 
@@ -128,11 +102,20 @@ HTML / CSS / JavaScript
 
 ## Contact
 
-GitHub :
-https://github.com/Mannany-Rakhis
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mannany-Rakhis)
 
-LinkedIn :
-https://www.linkedin.com/in/mannany-rakhis-274a35327
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mannany-rakhis-274a35327)
 
-Email :
-rakhisahmat3600@gmail.com
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakhisahmat3600@gmail.com)
+
+---
+
+## Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mannany-Rakhis&theme=github-dark)
+
+---
+
+## Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
