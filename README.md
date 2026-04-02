@@ -1,114 +1,96 @@
-# Salut, moi c'est Mannany Rakhis
+# Mannany Rakhis
 
-Étudiant en informatique à **École-IT**  
-Intéressé par l'infrastructure systèmes et la cybersécurité  
-Passionné par la technologie et le fonctionnement interne des systèmes informatiques  
-
-J’ai découvert une vraie passion pour l’informatique et je souhaite me spécialiser dans l'administration systèmes, le réseau et la sécurité informatique.
+Étudiant en informatique à École-IT, intéressé par l'infrastructure systèmes, les réseaux et la cybersécurité.  
+Je développe des projets pour renforcer mes compétences techniques et acquérir une expérience concrète.
 
 ---
 
-## Compétences acquises et en cours d'acquisition
+## Technical Skills
 
-### Langages
+### Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
----
-
-## Base de données
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-brown?style=for-the-badge&logo=mariadb&logoColor=white)
-
----
-
-## Outils et environnement de travail
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WAMP](https://img.shields.io/badge/WAMP-green?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![WAMP](https://img.shields.io/badge/WAMP-2C2C2C?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## IA que j'utilise pour gagner en productivité
+## AI Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-purple?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge&logo=google&logoColor=white)
-![Bolt](https://img.shields.io/badge/Bolt-black?style=for-the-badge)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-black?style=for-the-badge&logo=github&logoColor=white)
+ChatGPT • Claude • Gemini • GitHub Copilot • Bolt
 
-Utilisation :
-- Assistance au développement
-- Debug et compréhension de code
-- Explication de concepts techniques
-- Optimisation de projets
-- Génération d'idées et solutions techniques
+Used for :
+- Code understanding
+- Debugging
+- Technical learning
+- Productivity improvement
 
 ---
 
-## Projets
+## Projects
 
-### Papyrus – Marketplace de livres
+### Papyrus – Book marketplace
+Full stack academic project.
 
-Projet full stack réalisé dans le cadre de ma formation.
-
-Fonctionnalités :
-- Recherche dynamique
-- Système de filtres
+Features :
+- Dynamic search
+- Filters
 - Pagination
-- Base de données MySQL
+- MySQL database integration
 
-Technologies :  
+Stack :
 HTML / CSS / JavaScript / PHP / MySQL
 
 ---
 
 ### Clicker Game
+Front-end project focused on interaction and UI logic.
 
-Jeu web interactif développé pour améliorer mes compétences front-end.
-
-Fonctionnalités :
-- Système d'améliorations
+Features :
+- Upgrade system
 - Achievements
-- Animations interactives
+- Interactive animations
 
-Technologies :  
+Stack :
 HTML / CSS / JavaScript
 
 ---
 
-## Objectifs
+## Objectives
 
-- Trouver une alternance ou un stage
-- Continuer à progresser techniquement
-- Construire des projets professionnels
-- Me spécialiser en infrastructure et cybersécurité
+Currently looking for :
+- Internship
+- Apprenticeship (alternance)
+
+Focus areas :
+- Systems administration
+- Networking
+- Cybersecurity
+- Backend development
 
 ---
 
 ## Contact
 
-GitHub :  
+GitHub :
 https://github.com/Mannany-Rakhis  
 
-LinkedIn :  
+LinkedIn :
 https://www.linkedin.com/in/mannany-rakhis-274a35327  
 
-Mail :  
-rakhisahmat3600@gmail.com  
-
----
-
-## Philosophie
-
-Apprendre, pratiquer, construire et progresser chaque jour.
+Email :
+rakhisahmat3600@gmail.com
