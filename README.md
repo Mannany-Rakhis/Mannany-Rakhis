@@ -18,7 +18,7 @@ J'ai également travaillé sur :
 - Linux
 - Windows Server dans un environnement virtualisé (VMware)
 
-Je développe aussi des projets web pour renforcer mes bases en développement.
+Je possède aussi des bases en design graphique grâce à mon parcours en infographie.
 
 Objectif : trouver une alternance pour continuer à progresser et acquérir de l'expérience professionnelle.
 
@@ -37,7 +37,7 @@ Objectif : trouver une alternance pour continuer à progresser et acquérir de l
 [![My Skills](https://skillicons.dev/icons?i=symfony,fastapi,bootstrap,docker)](https://skillicons.dev)
 
 Swagger (documentation API)  
-UML (modélisation)  
+UML (modélisation)
 
 ---
 
@@ -47,6 +47,22 @@ UML (modélisation)
 
 VMware (virtualisation)  
 Windows Server (bases)
+
+---
+
+## Design & outils graphiques
+
+<p>
+
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+
+<img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
+
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+
+</p>
 
 ---
 
