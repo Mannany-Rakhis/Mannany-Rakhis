@@ -6,43 +6,50 @@
 
 ## Profil
 
-Étudiant à **École-IT**, passionné par l'informatique et particulièrement intéressé par :
+Étudiant en informatique à **École-IT**.
 
-- Infrastructure systèmes
-- Réseaux
-- Cybersécurité
-- Backend
+Je m'intéresse particulièrement à :
+- l'infrastructure informatique
+- les systèmes
+- les réseaux
+- la cybersécurité
 
-Je développe des projets pour renforcer mes compétences techniques et préparer mon entrée dans le monde professionnel.
+J'ai également réalisé des manipulations sur **Linux** et travaillé sur **Windows Server dans un environnement virtualisé (VMware)** dans le cadre de ma formation.
+
+Objectif : trouver une alternance pour continuer à progresser et acquérir de l'expérience professionnelle.
 
 ---
 
 ## Stack technique
 
-### Languages
+### Langages
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,c,mysql)](https://skillicons.dev)
 
 ---
 
-### Tools
+### Outils
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)](https://skillicons.dev)
+
+Windows Server (bases)  
+VMware (virtualisation)
 
 ---
 
-### AI Tools
+## IA utilisées
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6B4EFF?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=github)
+![Bolt](https://img.shields.io/badge/Bolt-black?style=for-the-badge)
 
 Utilisation :
-- Debug
-- Apprentissage technique
-- Optimisation code
-- Productivité
+- aide au développement
+- debug
+- apprentissage technique
+- optimisation du travail
 
 ---
 
@@ -50,13 +57,13 @@ Utilisation :
 
 ### Papyrus – Marketplace de livres
 
-Projet full stack :
+Projet full stack réalisé pendant ma formation.
 
 Fonctionnalités :
-- Recherche dynamique
-- Filtres
-- Pagination
-- Base MySQL
+- recherche dynamique
+- filtres
+- pagination
+- base de données MySQL
 
 Stack :
 
@@ -66,12 +73,12 @@ Stack :
 
 ### Clicker Game
 
-Projet JavaScript :
+Projet JavaScript.
 
 Fonctionnalités :
-- Upgrade system
-- Achievements
-- Animations
+- système d'améliorations
+- achievements
+- animations
 
 Stack :
 
@@ -94,26 +101,19 @@ Stack :
 ## Objectifs
 
 - Trouver une alternance
-- Développer mes compétences techniques
-- Construire des projets solides
+- Continuer à progresser techniquement
+- Construire des projets sérieux
 - Me spécialiser en infrastructure et cybersécurité
 
 ---
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mannany-Rakhis)
+GitHub :
+https://github.com/Mannany-Rakhis
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mannany-rakhis-274a35327)
+LinkedIn :
+https://www.linkedin.com/in/mannany-rakhis-274a35327
 
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakhisahmat3600@gmail.com)
-
----
-
-## Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mannany-Rakhis&theme=github-dark)
-
----
-
-
+Email :
+rakhisahmat3600@gmail.com
