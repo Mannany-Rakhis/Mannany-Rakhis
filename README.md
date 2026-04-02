@@ -1,14 +1,17 @@
-# 👋 Salut, moi c'est Mannany Rakhis
-Étudiant en informatique à **Ecole-IT**  
+# Salut, moi c'est Mannany Rakhis
 
-J'ai appris a aimé l'informatique et j'aimerais me spécialiser dans l'infra et la sécurité  
+Étudiant en informatique à **École-IT**  
+Intéressé par l'infrastructure systèmes et la cybersécurité  
+Passionné par la technologie et le fonctionnement interne des systèmes informatiques  
 
+J’ai découvert une vraie passion pour l’informatique et je souhaite me spécialiser dans l'administration systèmes, le réseau et la sécurité informatique.
 
 ---
 
-compétences acquise et en cours 
+## Compétences acquises et en cours d'acquisition
 
-###  Langages
+### Langages
+
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,14 +22,14 @@ compétences acquise et en cours
 
 ---
 
-##  Base de données
+## Base de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-brown?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
-##  Outils
+## Outils et environnement de travail
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
@@ -36,7 +39,7 @@ compétences acquise et en cours
 
 ---
 
-##  IA que j'utilise pour gagné en productivités
+## IA que j'utilise pour gagner en productivité
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-purple?style=for-the-badge)
@@ -45,63 +48,67 @@ compétences acquise et en cours
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-black?style=for-the-badge&logo=github&logoColor=white)
 
 Utilisation :
-- Aide au développement
-- Debug de code
-- Explication de concepts
+- Assistance au développement
+- Debug et compréhension de code
+- Explication de concepts techniques
 - Optimisation de projets
-- Génération d'idées
+- Génération d'idées et solutions techniques
 
 ---
 
-##  Projets
+## Projets
 
-### Papyrus – Site de livres (marketplace)
-Projet full stack avec :
+### Papyrus – Marketplace de livres
+
+Projet full stack réalisé dans le cadre de ma formation.
+
+Fonctionnalités :
 - Recherche dynamique
-- Filtres
+- Système de filtres
 - Pagination
 - Base de données MySQL
 
-Tech :
-HTML / CSS / JS / PHP / MySQL
+Technologies :  
+HTML / CSS / JavaScript / PHP / MySQL
 
 ---
 
-###  Clicker Game
-Jeu web avec :
-- Améliorations
-- Achievements
-- Animations
+### Clicker Game
 
-Tech :
+Jeu web interactif développé pour améliorer mes compétences front-end.
+
+Fonctionnalités :
+- Système d'améliorations
+- Achievements
+- Animations interactives
+
+Technologies :  
 HTML / CSS / JavaScript
 
 ---
 
 ## Objectifs
 
-- Trouver une alternance/stage
+- Trouver une alternance ou un stage
+- Continuer à progresser techniquement
 - Construire des projets professionnels
-- Améliorer mes compétences techniques
+- Me spécialiser en infrastructure et cybersécurité
 
 ---
 
-## GitHub Stats
+## Contact
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=dark)
+GitHub :  
+https://github.com/Mannany-Rakhis  
 
-## Langages les plus utilisés
+LinkedIn :  
+https://www.linkedin.com/in/mannany-rakhis-274a35327  
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact)
----
-
-##  Contact
-
-GitHub :
-https://github.com/Mannany-Rakhis
-Linkedln :
-www.linkedin.com/in/mannany-rakhis-274a35327
-Mail :
-rakhisahmat3600@gmail.com
+Mail :  
+rakhisahmat3600@gmail.com  
 
 ---
+
+## Philosophie
+
+Apprendre, pratiquer, construire et progresser chaque jour.
