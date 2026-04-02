@@ -86,16 +86,13 @@ HTML / CSS / JavaScript
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=dark)
 
----
+## Langages les plus utilisés
 
-##  Langages les plus utilisés
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact)
 ---
 
 ##  Contact
@@ -108,9 +105,3 @@ Mail :
 rakhisahmat3600@gmail.com
 
 ---
-
-## ⚡ À propos de moi
-
-Étudiant motivé qui développe des projets pour progresser rapidement et devenir développeur professionnel.
-
-Je m'intéresse autant au développement qu'au fonctionnement interne des ordinateurs.
