@@ -88,13 +88,13 @@ HTML / CSS / JavaScript
 
 ##  GitHub Stats
 
-![Mannany stats](https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannany-Rakhis&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ##  Langages les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannany-Rakhis&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
