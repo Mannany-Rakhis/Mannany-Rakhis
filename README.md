@@ -24,9 +24,9 @@ Objectif : trouver une alternance pour continuer à progresser et acquérir de l
 
 ---
 
-## Stack technique
+## Compétences techniques
 
-### Langages
+### Développement
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,mysql,postgres)](https://skillicons.dev)
 
@@ -50,17 +50,17 @@ Windows Server (bases)
 
 ---
 
-## Design & outils graphiques
+### Design
 
 <p>
 
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop">
 
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator">
 
-<img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
+<img src="https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=adobeindesign">
 
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+<img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat&logo=adobeaftereffects">
 
 </p>
 
