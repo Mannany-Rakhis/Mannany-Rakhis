@@ -18,6 +18,8 @@ J'ai également travaillé sur :
 - Linux
 - Windows Server dans un environnement virtualisé (VMware)
 
+Je développe aussi des projets web pour renforcer mes bases en développement.
+
 Objectif : trouver une alternance pour continuer à progresser et acquérir de l'expérience professionnelle.
 
 ---
@@ -26,16 +28,25 @@ Objectif : trouver une alternance pour continuer à progresser et acquérir de l
 
 ### Langages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,mysql,postgres)](https://skillicons.dev)
 
 ---
 
-### Outils & systèmes
+### Frameworks & technologies vues
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,fastapi,bootstrap,docker)](https://skillicons.dev)
 
-Windows Server (bases)  
-VMware (virtualisation)
+Swagger (documentation API)  
+UML (modélisation)  
+
+---
+
+### Systèmes & outils
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,windows)](https://skillicons.dev)
+
+VMware (virtualisation)  
+Windows Server (bases)
 
 ---
 
@@ -63,18 +74,22 @@ VMware (virtualisation)
 <img src="https://img.shields.io/badge/Bolt-000000?style=for-the-badge">
 </a>
 
+<a href="https://chatglm.cn">
+<img src="https://img.shields.io/badge/GLM-1E90FF?style=for-the-badge">
+</a>
+
+<a href="https://z.ai">
+<img src="https://img.shields.io/badge/Z.ai-black?style=for-the-badge">
+</a>
+
 </p>
 
 Utilisation :
 - aide au développement
 - debug
-- apprentissage technique
-- optimisation du travail
-Utilisation :
-- aide au développement
-- debug
-- apprentissage technique
-- optimisation du travail
+- compréhension de concepts techniques
+- productivité
+- génération d'idées
 
 ---
 
