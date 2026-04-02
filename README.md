@@ -1,96 +1,100 @@
 # Mannany Rakhis
 
-Étudiant en informatique à École-IT, intéressé par l'infrastructure systèmes, les réseaux et la cybersécurité.  
-Je développe des projets pour renforcer mes compétences techniques et acquérir une expérience concrète.
+Computer Science student at École-IT  
+Interested in Systems, Networking and Cybersecurity.
+
+Currently building technical projects to strengthen my development and infrastructure skills.
 
 ---
 
-## Technical Skills
+## Profile
+
+- Computer science student
+- Interested in infrastructure and security
+- Experience with web development projects
+- Looking for an apprenticeship or internship
+
+---
+
+## Technical Stack
 
 ### Languages
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+HTML • CSS • JavaScript • PHP • Python • C • SQL
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+MySQL • MariaDB
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![WAMP](https://img.shields.io/badge/WAMP-2C2C2C?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+Git • GitHub • VS Code • WAMP • Postman
 
----
-
-## AI Tools
-
+### AI Tools
 ChatGPT • Claude • Gemini • GitHub Copilot • Bolt
 
-Used for :
-- Code understanding
+Use cases :
+- Code analysis
 - Debugging
-- Technical learning
-- Productivity improvement
+- Learning technical concepts
+- Improving productivity
 
 ---
 
 ## Projects
 
-### Papyrus – Book marketplace
-Full stack academic project.
+### Papyrus (Book marketplace)
 
-Features :
-- Dynamic search
+Academic full stack project.
+
+Main features :
+- Dynamic search system
 - Filters
 - Pagination
-- MySQL database integration
+- Database integration
 
-Stack :
-HTML / CSS / JavaScript / PHP / MySQL
+Tech stack :
+HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
 ### Clicker Game
-Front-end project focused on interaction and UI logic.
 
-Features :
+Front-end project focused on JavaScript logic.
+
+Main features :
 - Upgrade system
 - Achievements
-- Interactive animations
+- UI animations
 
-Stack :
-HTML / CSS / JavaScript
+Tech stack :
+HTML, CSS, JavaScript
 
 ---
 
-## Objectives
+## Areas of Interest
 
-Currently looking for :
-- Internship
-- Apprenticeship (alternance)
-
-Focus areas :
 - Systems administration
-- Networking
-- Cybersecurity
+- Networking fundamentals
+- Cybersecurity fundamentals
 - Backend development
+- Infrastructure
+
+---
+
+## Current Goals
+
+- Obtain an apprenticeship
+- Improve technical skills
+- Build more technical projects
+- Develop infrastructure knowledge
 
 ---
 
 ## Contact
 
 GitHub :
-https://github.com/Mannany-Rakhis  
+https://github.com/Mannany-Rakhis
 
 LinkedIn :
-https://www.linkedin.com/in/mannany-rakhis-274a35327  
+https://www.linkedin.com/in/mannany-rakhis-274a35327
 
 Email :
 rakhisahmat3600@gmail.com
