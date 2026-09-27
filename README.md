@@ -32,21 +32,14 @@ Objectif : trouver une alternance pour continuer à progresser et acquérir de l
 
 ---
 
-### Frameworks & technologies vues
-
-[![My Skills](https://skillicons.dev/icons?i=symfony,fastapi,bootstrap,docker)](https://skillicons.dev)
-
-Swagger (documentation API)  
-UML (modélisation)
-
----
-
 ### Systèmes & outils
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,windows)](https://skillicons.dev)
 
 VMware (virtualisation)  
 Windows Server (bases)
+
+UML (modélisation)
 
 ---
 
@@ -63,49 +56,6 @@ Windows Server (bases)
 <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat&logo=adobeaftereffects">
 
 </p>
-
----
-
-## IA utilisées
-
-<p>
-
-<a href="https://chat.openai.com">
-<img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white">
-</a>
-
-<a href="https://claude.ai">
-<img src="https://img.shields.io/badge/Claude-6B4EFF?style=for-the-badge">
-</a>
-
-<a href="https://gemini.google.com">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-</a>
-
-<a href="https://github.com/features/copilot">
-<img src="https://img.shields.io/badge/GitHub_Copilot-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://bolt.new">
-<img src="https://img.shields.io/badge/Bolt-000000?style=for-the-badge">
-</a>
-
-<a href="https://chatglm.cn">
-<img src="https://img.shields.io/badge/GLM-1E90FF?style=for-the-badge">
-</a>
-
-<a href="https://z.ai">
-<img src="https://img.shields.io/badge/Z.ai-black?style=for-the-badge">
-</a>
-
-</p>
-
-Utilisation :
-- aide au développement
-- debug
-- compréhension de concepts techniques
-- productivité
-- génération d'idées
 
 ---
 
