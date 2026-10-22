@@ -6,7 +6,7 @@
 
 ## Profil
 
-Étudiant en informatique à **École-IT**.
+Étudiant en informatique à **Ynov Lille**.
 
 Je m'intéresse particulièrement à :
 - l'infrastructure informatique
